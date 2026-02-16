@@ -2,7 +2,7 @@
 akademisches Praktikum-Digitales Servoantriebssystem mit Linearachse/ Ingenieur / Labor
 Hochschule : Technische Hochschule Georg Agricola
 Zeitraum : Wintersemester 25/26
-Wissenschaftsbereich 3: Ingenieurwesen (BET-Energietechnik)
+Wissenschaftsbereich : Elektrotechnik (BET-Energietechnik)
 
 _Ziel des Praktikums:
 
